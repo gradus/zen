@@ -10,7 +10,7 @@ I look at code as art.
 
 ### Usage
 
-    git clone https://github.com/gradus/zen.git
+    git clone https://gradus@github.com/gradus/zen.git
     cd zen
     sudo cp zen /usr/local/bin
     
