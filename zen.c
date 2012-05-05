@@ -9,7 +9,8 @@
    main ()             /* Zen */
 
    {
-   printf ("The Zen of Python, by Tim Peters \n\n");
+   printf ("\nThe Zen of Programming \n\n");
+   printf ("Originally, The Zen of Python, by Tim Peters \n\n\n");
    printf ("Beautiful is better than ugly. \n");
    printf ("Explicit is better than implicit. \n");
    printf ("Simple is better than complex. \n");
@@ -28,5 +29,5 @@
    printf ("Although never is often better than *right* now. \n");
    printf ("If the implementation is hard to explain, it's a bad idea. \n");
    printf ("If the implementation is easy to explain, it may be a good idea. \n");
-   printf ("Namespaces are one honking great idea -- let's do more of those! \n");
+   printf ("Namespaces are one honking great idea -- let's do more of those! \n\n");
    }
