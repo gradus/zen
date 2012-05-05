@@ -3,8 +3,8 @@
 ### elementary C code to display zen in programming
  
 Code and poetry can both be very zen.
-When first learning Python, the first thing I did was type `import this`
-I thought the poem or serious of statements by Tim Peters was great.
+When first learning Python, the first thing I did was type `import this`.
+I thought the poem or series of statements by Tim Peters was great.
 I still see a lot of truth and beauty in these statements.
 I look at code as art.
 
