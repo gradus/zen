@@ -1,5 +1,5 @@
 /***********************************************************/
-/* The Zen of Python in C, by Tim Peters                   */
+/* The Zen of Python, by Tim Peters in C                   */
 /***********************************************************/
 
 #include <stdio.h>
