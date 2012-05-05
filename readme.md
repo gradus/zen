@@ -1,6 +1,6 @@
-#Zen is great in any language
+#Zen of programming
 
-### elementary C code to display zen in programming
+### simple C code to display zen in programming
  
 Code and poetry can both be very zen.
 When first learning Python, the first thing I did was type `import this`.
